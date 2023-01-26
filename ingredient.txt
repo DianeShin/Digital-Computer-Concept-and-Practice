@@ -1,0 +1,12 @@
+Bread,bread,baguette,bun,croissant
+Dairy Product,egg,milk,cream,cheddar,ice cream
+Fishy,seaweed,fish cake,salmon,crab,clam,shrimp
+Fruit,banana,apple,grape
+Grain,rice,oats
+Liquid,oil,olive oil,syrup
+Meat,beef,pork,chicken,lamb,spam,ham,patty
+Noodle,pasta,rice noodles,rice cake
+Powder,flour,bread crumbs,yeast,sugar,pepper powder,salt
+Sauce,soy sauce,mayonnaise,tomato sauce,pepper paste
+Vegetable,lettuce,carrot,onion,green onion,sesame,tomato,garlic,radish,cucumber,pepper,garnish
+Mushroom,white mushroom,Enoki mushroom,Shiitake,oyster mushroom

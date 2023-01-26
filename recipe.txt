@@ -1,0 +1,15 @@
+sunny side up,egg,oil
+omlet rice,egg,rice,veggies
+egg sandwich,egg,bread,lettuce
+ham egg sandwich,egg,ham,bread,lettuce
+mashed potato,potato,butter,milk
+tomato pasta,tomato sauce,pasta,onion,white mushroom,olive oil
+tteokboki,rice cake,pepper paste,sugar,green onion,sugar,pepper powder,fish cake
+egg roll,egg,oil
+steamed egg,egg
+aligo e olio,garlic,pasta,olive oil,salt
+wine platter,cheese,ham,grape
+burger,bun,patty,lettuce,tomato,onion,cheddar
+croffle,croissant,ice cream,syrup
+grilled shrimp,shrimp,salt
+steak,beef,olive oil,garnish
